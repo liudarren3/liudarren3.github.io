@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "I'm Darren Liu, nice to meet you!",
+    "excerpt": "\n",
+    "content": "I’m a first year Ph.D. student in the Biophysical program at the University of Chicago. I’m interested in modeling biology with computers and finding out what is actually happening to proteins at a structural level. In particular, I would like to be able to use molecular dynamics to explore conformational space and use machine learning methods to speed up simulations. I would love to apply what I will learn to help further our understanding of how we can rationally design molecules (both small and macrocyclic) to be more drug-like and affect target structure in an intentional way (even though that might be a pipe dream).\n\nTo me, chemistry and computer science are the most interesting in the context of biological systems and I would love to be able to apply computational chemistry to relevent protein chemistry.\n\nPS: The molecule in the top left is proline, my favorite molecule. I like it because it’s a bit of a pesky amino acid and also a great organocatalyst for assymetric enolates. The logo and the background were drawn with molcloud.\n\nGoogle Scholar\n LinkedIn\n Github\n\n",
+    "url": "/"
+  }
+  
+]
+
