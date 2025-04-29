@@ -128,6 +128,9 @@ navigation_header:
 navigation_footer:
 - title: UChicago Biophysics
   url: https://biophysics.uchicago.edu/
+- title: Made with Alembic
+  url: https://alembic.darn.es/
+
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
@@ -149,4 +152,5 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    #- https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap

@@ -1,0 +1,39 @@
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+    margin: 0 0 20px 20px;
+  }
+
+  
+/* Button icon styles */
+.button i {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* Optional: different styling for icon-only buttons */
+.button.icon-only i {
+  margin-right: 0;
+}
+.button-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* Make sure your CSS file has these styles */
+.button i {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* For Google Scholar icon specifically */
+.ai-google-scholar-square {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
