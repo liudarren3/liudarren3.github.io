@@ -130,6 +130,8 @@ navigation_footer:
   url: https://biophysics.uchicago.edu/
 - title: Made with Alembic
   url: https://alembic.darn.es/
+- title: Graphics made with MolCloud
+  url: https://github.com/whitead/molcloud
 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
