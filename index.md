@@ -4,7 +4,7 @@ feature_image: "/uploads/biomol_wp1_w20_sliced.png"
 feature_text:
 ---
 
-![Darren Liu](/uploads/Darren.jpg){: .profile-image}
+![Darren Liu](/uploads/20251115_darren.png){: .profile-image}
 
 I'm a fourth year Ph.D. student in the Biophysical Sciences, co-advised by [Aaron Dinner](https://dinner-group.uchicago.edu/) and [Arvind Murugan](http://muruganlab.uchicago.edu/) at the University of Chicago. 
 
