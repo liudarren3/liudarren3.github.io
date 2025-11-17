@@ -14,4 +14,5 @@ I did my undergrad at Boston University where I earned a degree in Chemistry: Bi
 
 If you would like to get in touch, feel free to send me an email at: <br>**liudarren3 [at] gmail.com**
 
-{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %} {% include button.html  icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %} {% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %} {% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %}
+{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %} {% include button.html  icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %} {% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %} {% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %} {% include button.html text="CV" link="/uploads/Darren_Liu_CV_20251114.pdf" new_tab=true %}
+
