@@ -7,7 +7,20 @@
     margin: 0 0 20px 20px;
   }
 
-  
+
+/* Button group container */
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+/* Make buttons display inline */
+.button {
+  display: inline-block;
+}
+
 /* Button icon styles */
 .button i {
   margin-right: 8px;

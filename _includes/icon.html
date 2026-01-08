@@ -1,0 +1,16 @@
+{% if include.id contains 'ai-' %}
+  {%- comment -%}Academicons icon{%- endcomment -%}
+  <i class="ai {{ include.id }}" aria-hidden="true" style="font-size: 16px;"></i>
+{% else %}
+  {%- comment -%}SVG icon from theme{%- endcomment -%}
+  <svg width="{{ include.width | default: "16" }}"
+       height="{{ include.height | default: "16" }}"
+       class="icon  icon--{{ include.id | default: "link" }}"
+       role="img"
+       alt="{{ include.title | default: include.id }}">
+    <title>{{ include.title | default: include.id }}</title>
+    <use xlink:href="#{{ include.id | default: "link" }}"
+         fill="{{ include.color | default: 'CurrentColor' }}">
+    </use>
+  </svg>
+{% endif %}
