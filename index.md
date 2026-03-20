@@ -1,6 +1,6 @@
 ---
 title: I'm Darren Liu, nice to meet you!
-feature_image: "/uploads/website_banner.svg"
+feature_image: "/uploads/website_banner_final.svg"
 feature_text:
 ---
 
