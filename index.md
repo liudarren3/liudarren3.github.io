@@ -105,6 +105,15 @@ h2.cv-col-title {
   line-height: 1.2;
   font-family: "Avenir", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
 }
+
+
+.cv-left-image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 12px;
+  align-self: start;
+}
 </style>
 
 <!-- ![Darren Liu](/uploads/Darren_banner_full.jpg){: .profile-image} -->
@@ -237,6 +246,28 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
         <li>Spatial transcriptomics</li>
         <li>Computer Vision</li>
       </ul>
+  </div>
+</div>
+
+<h1>Service and Teaching</h1>
+<div class="cv-grid">
+  <img class="cv-left-image" src="/uploads/UCombo-low.png" alt="Description">
+  <div class="cv-card">
+    <!-- right column content -->
+    <h3 class="cv-title">Center for Living Systems Chalk Talk Organizer</h3>
+    <p style="line-height:1.5; margin:0;"></p>
+    <h3 class="cv-title">UChicago Computational Biology Outreach</h3>
+    <p style="line-height:1.5; margin:-0;">Taught computational biology (Python, DNA) in elementary, middle, and high schools</p>
+    <h3 class="cv-title">GirlsWhoCode</h3>
+    <p style="line-height:1.5; margin:-0;">Taught fundamentals of coding to girls in elementary and middle school</p>
+    <h3 class="cv-title">TA for "Computational Biology in Microbial Ecosystems"</h3>
+    <p style="line-height:1.5; margin:0;"></p>
+    <h3 class="cv-title"><span>&#64;</span>rtifice Volunteer</h3>
+    <p style="line-height:1.5; margin:-0;">Taught middle school kids basics of circuits and coding</p>
+    <h3 class="cv-title">BU Chemia</h3>
+    <p style="line-height:1.5; margin:-0;">Tutored undergraduates in organic and physical chemistry</p>
+    
+
   </div>
 </div>
 
