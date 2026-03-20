@@ -121,7 +121,7 @@ h2.cv-col-title {
 I'm a fourth year Ph.D. student in the Biophysical Sciences, co-advised by [Aaron Dinner](https://dinner-group.uchicago.edu/) and [Arvind Murugan](http://muruganlab.uchicago.edu/) at the University of Chicago. 
 
 <div class="button-group">
-{% include button.html text="CV" link="/uploads/Darren_Liu_CV_20251211.pdf" new_tab=true %}{% include button.html icon="ai-google-scholar-square" text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %}{% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %}{% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %}{% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %}
+{% include button.html text="CV" link="/uploads/Darren_Liu_CV_20260320.pdf" new_tab=true %}{% include button.html icon="ai-google-scholar-square" text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %}{% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %}{% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %}{% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %}
 </div> 
 
 If you would like to get in touch, feel free to send me an email at: <br>**liudarren3 [at] gmail.com**
@@ -138,6 +138,7 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
       </div>
       <h3 class="cv-title">Biophysics PhD – University of Chicago</h3>
       <p>Advisors: Aaron Dinner, Arvind Murugan</p>
+      <p>Department of Biophysical Sciences</p>
       <p><strong>Interests:</strong></p>
       <ul>
         <li>Molecular evolution</li>
@@ -249,19 +250,24 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
   </div>
 </div>
 
-<h1>Service and Teaching</h1>
 <div class="cv-grid">
+  <h2 class="cv-col-title">Service and Teaching</h2>
+  <h2 class="cv-col-title"></h2>
   <img class="cv-left-image" src="/uploads/UCombo-low.png" alt="Description">
   <div class="cv-card">
     <!-- right column content -->
-    <h3 class="cv-title">Center for Living Systems Chalk Talk Organizer</h3>
+    <h3 class="cv-title"><a href = "https://centerforlivingsystems.uchicago.edu/"> Center for Living Systems</a> Chalk Talk Organizer</h3>
     <p style="line-height:1.5; margin:0;"></p>
-    <h3 class="cv-title">UChicago Computational Biology Outreach</h3>
+    <h3 class="cv-title"><a href = "https://uccompbio.github.io/">UChicago Computational Biology Outreach</a></h3>
     <p style="line-height:1.5; margin:-0;">Taught computational biology (Python, DNA) in elementary, middle, and high schools</p>
+    <h3 class="cv-title">Biophysical Sciences Student Advisory Board Member</h3>
+    <p style="line-height:1.5; margin:0;">Elected by peers to coordinate and lead program-wide events and community building activities.</p>
     <h3 class="cv-title">GirlsWhoCode</h3>
     <p style="line-height:1.5; margin:-0;">Taught fundamentals of coding to girls in elementary and middle school</p>
-    <h3 class="cv-title">TA for "Computational Biology in Microbial Ecosystems"</h3>
+    <h3 class="cv-title">Volunteer for <a href="https://eyhchicago.wordpress.com/">Expanding Your Horizons </a> </h3>
     <p style="line-height:1.5; margin:0;"></p>
+    <!--<h3 class="cv-title">TA for "Computational Biology in Microbial Ecosystems"</h3>
+    <p style="line-height:1.5; margin:0;"></p> -->
     <h3 class="cv-title"><span>&#64;</span>rtifice Volunteer</h3>
     <p style="line-height:1.5; margin:-0;">Taught middle school kids basics of circuits and coding</p>
     <h3 class="cv-title">BU Chemia</h3>
