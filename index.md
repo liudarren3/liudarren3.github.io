@@ -169,14 +169,13 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
       <div class="cv-date">Summer of 2026</div> 
       <img class="cv-logo" src="/uploads/Abbvie-logo.png" alt="Stanford logo">
       </div>
-      <h3 class="cv-title">Abbvie</h3>
+      <h3 class="cv-title">AbbVie</h3>
       <p style="line-height:1.5; margin:-5;">
         CMC Biologics Drug Substance Intern - Cell Culture Development 
       </p>
       <p><strong>Skills:</strong></p>
       <ul>
-        <li>Machine learning</li>
-        <li>Cell Culture</li>
+        <li>AI/ML for cell culture development</li>
       </ul>
   </div>
 </div>
