@@ -19,7 +19,8 @@ GEM
     base64 (0.3.0)
     bigdecimal (3.3.1)
     colorator (1.1.0)
-    commonmarker (0.23.12)
+    commonmarker (0.21.1)
+      ruby-enum (~> 0.5)
     concurrent-ruby (1.3.6)
     connection_pool (3.0.2)
     csv (3.3.5)
@@ -115,6 +116,8 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.4)
     rouge (4.6.1)
+    ruby-enum (0.9.0)
+      i18n
     rubyzip (2.4.1)
     safe_yaml (1.0.5)
     sass-embedded (1.96.0)
@@ -153,7 +156,7 @@ CHECKSUMS
   base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
   bigdecimal (3.3.1) sha256=eaa01e228be54c4f9f53bf3cc34fe3d5e845c31963e7fcc5bedb05a4e7d52218
   colorator (1.1.0) sha256=e2f85daf57af47d740db2a32191d1bdfb0f6503a0dfbc8327d0c9154d5ddfc38
-  commonmarker (0.23.12) sha256=da2d2f89c7c7b51c42c6e69ace3ab5df39497683f86e83aca7087c671d523ccd
+  commonmarker (0.21.1) sha256=39faa41ef4838a2e9dca5855fc3780c39beeab29a551b7e37b725c899e8aaca2
   concurrent-ruby (1.3.6) sha256=6b56837e1e7e5292f9864f34b69c5a2cbc75c0cf5338f1ce9903d10fa762d5ab
   connection_pool (3.0.2) sha256=33fff5ba71a12d2aa26cb72b1db8bba2a1a01823559fb01d29eb74c286e62e0a
   csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
@@ -198,6 +201,7 @@ CHECKSUMS
   rb-inotify (0.11.1) sha256=a0a700441239b0ff18eb65e3866236cd78613d6b9f78fea1f9ac47a85e47be6e
   rexml (3.4.4) sha256=19e0a2c3425dfbf2d4fc1189747bdb2f849b6c5e74180401b15734bc97b5d142
   rouge (4.6.1) sha256=5075346d5797d6864be93f7adc75a16047a7dbfa572c63c502419ffa582c77de
+  ruby-enum (0.9.0) sha256=77a09954184714a9ca0baf2dde91a38b96a8f0f834f1984c7a1e52df2148dadf
   rubyzip (2.4.1) sha256=8577c88edc1fde8935eb91064c5cb1aef9ad5494b940cf19c775ee833e075615
   safe_yaml (1.0.5) sha256=a6ac2d64b7eb027bdeeca1851fe7e7af0d668e133e8a88066a0c6f7087d9f848
   sass-embedded (1.96.0) sha256=a124de2a3451827dcf936bd54918265e414da623f1671c14f268d7cbdab56504

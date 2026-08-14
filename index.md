@@ -121,7 +121,7 @@ h2.cv-col-title {
 I'm a fourth year Ph.D. student in the Biophysical Sciences, co-advised by [Aaron Dinner](https://dinner-group.uchicago.edu/) and [Arvind Murugan](http://muruganlab.uchicago.edu/) at the University of Chicago. 
 
 <div class="button-group">
-{% include button.html text="CV" link="/uploads/Darren_Liu_CV_20260320.pdf" new_tab=true %}{% include button.html icon="ai-google-scholar-square" text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %}{% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %}{% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %}{% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %}
+{% include button.html text="CV" link="/uploads/Darren_Liu_CV_20260913.pdf" new_tab=true %}{% include button.html icon="ai-google-scholar-square" text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %}{% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %}{% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %}{% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %}
 </div> 
 
 If you would like to get in touch, feel free to send me an email at: <br>**liudarren3 [at] gmail.com**
@@ -142,7 +142,7 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
       <p><strong>Interests:</strong></p>
       <ul>
         <li>Molecular evolution</li>
-        <li>Labratory automation</li>
+        <li>Automated liquid handling</li>
         <li>Protein language models</li>
       </ul>
       
@@ -160,7 +160,7 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
       <p><strong>Experiments:</strong></p>
       <ul>
         <li>High-throughput directed protein evolution</li>
-        <li>Labratory automation</li>
+        <li>Automated liquid handling</li>
       </ul>
       <p><strong>Computation:</strong></p>
       <ul>
@@ -181,11 +181,12 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
       </div>
       <h3 class="cv-title">AbbVie</h3>
       <p style="line-height:1.5; margin:-5;">
-        CMC Biologics Drug Substance Intern - Cell Culture Development 
+        AI/ML CMC Cell Culture Development Intern
       </p>
       <p><strong>Skills:</strong></p>
       <ul>
-        <li>AI/ML for cell culture development</li>
+        <li>ML/ODE model for cell culture development </li>
+        <li>Protein language models</li>
       </ul>
   </div>
 </div>
@@ -259,7 +260,7 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
     <h3 class="cv-title"><a href = "https://centerforlivingsystems.uchicago.edu/"> Center for Living Systems</a> Chalk Talk Organizer</h3>
     <p style="line-height:1.5; margin:0;"></p>
     <h3 class="cv-title"><a href = "https://uccompbio.github.io/">UChicago Computational Biology Outreach</a></h3>
-    <p style="line-height:1.5; margin:-0;">Taught computational biology (Python, DNA) in elementary, middle, and high schools</p>
+    <p style="line-height:1.5; margin:0;">Taught computational biology (Python, DNA) in elementary, middle, and high schools</p>
     <h3 class="cv-title">Biophysical Sciences Student Advisory Board Member</h3>
     <p style="line-height:1.5; margin:0;">Elected by peers to coordinate and lead program-wide events and community building activities.</p>
     <h3 class="cv-title">GirlsWhoCode</h3>
