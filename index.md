@@ -118,7 +118,11 @@ h2.cv-col-title {
 
 <!-- ![Darren Liu](/uploads/Darren_banner_full.jpg){: .profile-image} -->
 
-I'm a fourth year Ph.D. student in the Biophysical Sciences, co-advised by [Aaron Dinner](https://dinner-group.uchicago.edu/) and [Arvind Murugan](http://muruganlab.uchicago.edu/) at the University of Chicago. 
+I'm a fifth year Ph.D. student in Biophysics, co-advised by [Aaron Dinner](https://dinner-group.uchicago.edu/) and [Arvind Murugan](http://muruganlab.uchicago.edu/) at the University of Chicago. I am a seasoned experimentalist and computationalist with experience developing high-throughput experimental assays and AI/ML models for biology. My thesis investigates the constraints that shape how and why proteins acquire new functions after mutation. To this end, I am combining directed evolution, automated liquid handling, and physical computational models to measure protein evolvability at scale.
+
+At [AbbVie](https://www.abbvie.com/), I developed a ODE/ML model that integrated mechanistic modeling with machine learning to predict experimental timecourses of cell culture experiments and accelerate FIH timelines. By incorporating protein sequence (via protein language models like ESM2) and biophysical properties, I enabled the model to generalize to out-of-distribution molecules despite limited experimental data.
+
+Previously, I worked with [Julia Salzman](https://salzmanlab.stanford.edu/) to analyze RNA-sequencing data from COVID positive patients with a statistical splicing algorithm and develop spatial transcriptomics methods. I also worked with [William Lehman](https://www.bumc.bu.edu/camed/profile/william-lehman/) to predict the effect of point mutations on myosin filaments with molecular dynamics simulations and relate those effects to cardiovascular disease. I also love volunteering for STEM outreach programs and have an extensive history teaching children computer science, biology, and chemistry concepts from elementary to high school.
 
 <div class="button-group">
 {% include button.html text="CV" link="/uploads/Darren_Liu_CV_20260913.pdf" new_tab=true %}{% include button.html icon="ai-google-scholar-square" text="Google Scholar" link="https://scholar.google.com/citations?user=MZdBLWwAAAAJ&hl=en" %}{% include button.html icon="linkedin" text="LinkedIn" link="https://www.linkedin.com/in/darren-liu-555808185" %}{% include button.html icon="github" text="Github" link="https://github.com/liudarren3" %}{% include button.html icon='twitter' text="Twitter" link="https://x.com/darrenjliu" %}
@@ -185,7 +189,7 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
       </p>
       <p><strong>Skills:</strong></p>
       <ul>
-        <li>ML/ODE model for cell culture development </li>
+        <li>ML/ODE modeling for cell culture development </li>
         <li>Protein language models</li>
       </ul>
   </div>
@@ -278,9 +282,13 @@ If you would like to get in touch, feel free to send me an email at: <br>**liuda
   </div>
 </div>
 
-<h1>About me</h1>
+<!--<h1>About me</h1>-->
 
-I enjoy combining experiments, theory, and computation in order to tackle the most exciting questions in biology. Broadly, my interests are in the physics of protein evolution and machine learning for biology. My thesis investigates the constraints that shape how and why proteins acquire new functions after mutation. To this end, I am combining **experimental directed evolution**, **automated liquid handling**, and **physical computational models** to measure protein evolvability at scale. From this data, I will use advanced dimensionality reduction techniques to identify low-dimensional relationships between protein sequence, phenotype, and evolvability.
 
-I did my undergrad at Boston University where I earned a degree in Chemistry: Biochemistry with minors in both Biology and Computer Science. Most of my previous research experience was at Stanford University, where I worked with [Julia Salzman](https://salzmanlab.stanford.edu/) to analyze RNA-sequencing data from COVID positive patients with a statistical splicing algorithm and develop spatial transcriptomics methods with computer vision . I also worked with [William Lehman](https://www.bumc.bu.edu/camed/profile/william-lehman/) in the BU School of Medicine to predict the effect of point mutations on myosin filaments with molecular dynamics simulations and relate those effects to cardiovascular disease. I also love volunteering for STEM outreach programs and have an extensive history teaching children computer science, biology, and chemistry concepts from elementary to high school. 
 
+<!-- 
+I enjoy combining experiments, computation, and theory in order to tackle the most exciting questions in biology and drug discovery. I am a seasoned experimentalist and computationalist with experience developing high-throughput experimental assays and AI/ML models for biology. I believe the most powerful science emerges when computation/AI/ML and experiments are used to inform and strengthen each other. This recquires interdisplinary scientists who can move fluidly between both domains and communicate fluently across them, enabling rapid iteration between computational modeling and experimental validation.
+At AbbVie, I developed a ODE/ML model that integrated mechanistic modeling with machine learning to predict experimental timecourses of cell culture experiments and accelerate FIH timelines for the CMC Cell Culture Development team. By incorporating protein sequence (via protein language models like ESM2) and biophysical properties, I enabled the model to generalize to out-of-distribution molecules despite limited experimental data. By working closely with experimentalists, I was able to ensure that the model would be able to directly inform and accelerate experimental decision-making.
+Broadly, my interests are in the physics of protein evolution and machine learning for biology. My thesis investigates the constraints that shape how and why proteins acquire new functions after mutation. To this end, I am combining **experimental directed evolution**, **automated liquid handling**, and **physical computational models** to measure protein evolvability at scale. 
+I did my undergrad at Boston University where I earned a degree in Chemistry: Biochemistry with minors in both Biology and Computer Science. During my undergrad, I worked with [Julia Salzman](https://salzmanlab.stanford.edu/) at Stanford University to analyze RNA-sequencing data from COVID positive patients with a statistical splicing algorithm and develop spatial transcriptomics methods with computer vision. I also worked with [William Lehman](https://www.bumc.bu.edu/camed/profile/william-lehman/) in the BU School of Medicine to predict the effect of point mutations on myosin filaments with molecular dynamics simulations and relate those effects to cardiovascular disease. I also love volunteering for STEM outreach programs and have an extensive history teaching children computer science, biology, and chemistry concepts from elementary to high school. 
+-->
