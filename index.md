@@ -6,6 +6,11 @@ feature_text:
 
 <style>
 
+.typeset p {
+  font-size: 0.9rem;
+    line-height: 1.6;      /* space between lines within a paragraph */
+  margin-bottom: 1.2rem; /* space between paragraphs */
+}
 .feature .container {
   min-height: 60vh;
 }
@@ -117,7 +122,6 @@ h2.cv-col-title {
 </style>
 
 <!-- ![Darren Liu](/uploads/Darren_banner_full.jpg){: .profile-image} -->
-
 I'm a fifth year Ph.D. student in Biophysics, co-advised by [Aaron Dinner](https://dinner-group.uchicago.edu/) and [Arvind Murugan](http://muruganlab.uchicago.edu/) at the University of Chicago. I am a seasoned experimentalist and computationalist with experience developing high-throughput experimental assays and AI/ML models for biology. My thesis investigates the constraints that shape how and why proteins acquire new functions after mutation. To this end, I am combining directed evolution, automated liquid handling, and physical computational models to measure protein evolvability at scale.
 
 At [AbbVie](https://www.abbvie.com/), I developed an ODE/ML model that integrated mechanistic modeling with machine learning to predict experimental timecourses of cell culture experiments and accelerate FIH timelines. By incorporating protein sequence (via protein language models like ESM2) and biophysical properties, I enabled the model to generalize to out-of-distribution molecules despite limited experimental data.
